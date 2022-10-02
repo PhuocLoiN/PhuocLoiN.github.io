@@ -575,6 +575,9 @@ p {
 	h1.section-title {
 		font-size: 6rem;
 	}
+	a {
+		color: inherit;
+	}
 
 	/* Hero */
 	#hero h1 {
@@ -696,6 +699,7 @@ p {
 	#header .nav-list ul a:after {
 		display: none;
 	}
+	
 	/* End header */
 
 	#services .service-bottom .service-item {
