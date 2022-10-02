@@ -636,6 +636,9 @@ p {
 	/* End About */
 
 	/* contact  */
+	a {
+		color: inherit;
+	}
 	#contact .contact {
 		flex-direction: column;
 		padding: 100px 0;
